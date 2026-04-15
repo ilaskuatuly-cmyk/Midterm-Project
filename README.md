@@ -48,7 +48,7 @@ credit-fraud-ml/
 ### 1. Clone / download the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ilaskuatuly-cmyk/Midterm-Project>
 cd credit-fraud-ml
 ```
 
