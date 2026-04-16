@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection — ML Pipeline
 
 **Course:** Introduction to Machine Learning — Final Project (2025)
+Zhakanov Rakhmadi
+Ilyas Kuatuly
 
 ## Problem Description
 
